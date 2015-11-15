@@ -1,0 +1,30 @@
+html {
+  background-color: #e5fff2;
+}
+
+h1 {
+  border: solid;
+  border-color:cyan;
+}
+
+h2 {
+  font-size: 30px;
+  border: groove;
+}
+
+h3 {
+  font-size: 24px;
+  border: inset;
+}
+
+p {
+  font-size: 20px;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
